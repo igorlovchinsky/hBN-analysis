@@ -1,0 +1,6 @@
+spin 1.5
+Ngyro 1365.5 
+Ng 85.797e2
+NVang 0.955
+Npi 371
+density 105
