@@ -9,7 +9,7 @@ Notes:
 
 		spin: the quantum number of the nuclear spin
 		Ngyro: gyromagnetic ratio of nuclear spin 
-    NVang: angle of NV axis
+    		NVang: angle of NV axis
 		Npi: number of applied pi-pulses on electronic spin
 		density: target spin density
 
@@ -19,15 +19,15 @@ Notes:
 		The required constants are:
 
 		hbar: reduced Planck?s constant [m^2 kg s^-1]
-    Egyro: gyromagnetic ratio of electronic spin sensor 
+    		Egyro: gyromagnetic ratio of electronic spin sensor 
 		mu_B: Bohr magneton [J T^-1]
 		u_0: permeability of free space [T m A^-1]
 		
 		The function 'initializeConstants' reads these values into a Python dictionary. 
     
-  3). The file 'hBNdata.txt' contains the experimental spectrum.
+  	3). The file 'hBNdata.txt' contains the experimental spectrum.
 
 	4). The file 'hBN_multispectra.txt' contains extracted parameters for several bulk, bilayer
-    and monolayer measurements.
+    		and monolayer measurements.
 
 	5). The file 'priors_hBN.txt' contains the priors on fit parameters.
